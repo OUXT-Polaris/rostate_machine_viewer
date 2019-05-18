@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/OUXT-Polaris/rostate_machine_viewer#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "rosnodejs": "^3.0.0"
