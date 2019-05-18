@@ -1,0 +1,22 @@
+{
+  "name": "rostate_machine_viewer",
+  "version": "1.0.0",
+  "description": "viewer for rostate_machine package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OUXT-Polaris/rostate_machine_viewer.git"
+  },
+  "keywords": [
+    "rostate_machine"
+  ],
+  "author": "Masaya Kataoka",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OUXT-Polaris/rostate_machine_viewer/issues"
+  },
+  "homepage": "https://github.com/OUXT-Polaris/rostate_machine_viewer#readme"
+}
