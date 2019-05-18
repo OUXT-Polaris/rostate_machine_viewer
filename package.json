@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/OUXT-Polaris/rostate_machine_viewer/issues"
   },
-  "homepage": "https://github.com/OUXT-Polaris/rostate_machine_viewer#readme"
+  "homepage": "https://github.com/OUXT-Polaris/rostate_machine_viewer#readme",
+  "dependencies": {
+    "rosnodejs": "^3.0.0"
+  }
 }
