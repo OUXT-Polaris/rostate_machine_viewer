@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <include file="$(find rostate_machine)/launch/example.launch" />
+
+    <node pkg="rostate_machine_viewer" type="viewer.js" name="viewer" output="screen" respawn="false" respawn_delay="0">
+    </node>
+</launch>
