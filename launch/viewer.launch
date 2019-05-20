@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="target_namespace" default=""/>
+
+    <node pkg="rostate_machine_viewer" type="viewer.js" name="viewer" output="screen" respawn="false" args="$(find rostate_machine_viewer) $(arg target_namespace)">
+    </node>
+</launch>
